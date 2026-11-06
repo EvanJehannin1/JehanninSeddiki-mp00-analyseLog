@@ -10,6 +10,7 @@ import java.io.IOException;
 /**
  *
  * @author ejehannin
+ * @author2 nseddiki
  */
 public class AnalyseLog {
 
